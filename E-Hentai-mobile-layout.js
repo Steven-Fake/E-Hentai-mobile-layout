@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         E-Hentai移动端界面适配
-// @namespace
+// @namespace    https://sleazyfork.org/zh-CN/users/1140711-steven-fake
+// @homepageURL  https://github.com/Steven-Fake/E-Hentai-mobile-layout
 // @version      1.0
 // @description  使E-Hentai的界面适配移动端
 // @author       Steven-Fake
@@ -9,6 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?domain=e-hentai.org
 // @run-at       document-idle
 // @grant        none
+// @downloadURL https://update.sleazyfork.org/scripts/567011/E-Hentai%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%95%8C%E9%9D%A2%E9%80%82%E9%85%8D.user.js
+// @updateURL https://update.sleazyfork.org/scripts/567011/E-Hentai%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%95%8C%E9%9D%A2%E9%80%82%E9%85%8D.meta.js
 // ==/UserScript==
 const VERSION = "1.0";
 const EMBEDDED_CSS = `
